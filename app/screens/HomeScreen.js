@@ -19,7 +19,7 @@ export const Home = ({ navigation }) => {
                 color="#841584"
                 title='PRODUCTOS'
                 onPress={() => {
-                    navigation.navigate('ProductNav');
+                    navigation.navigate('ProductNavigation');
                 }}
             />
 

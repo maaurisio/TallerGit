@@ -13,9 +13,9 @@ export default function App() {
     <NavigationContainer>
 
       <Stack.Navigator>
-        <Stack.Screen name='HomeNav' component={Home} />
+        <Stack.Screen name='WellcomeBrayan' component={Home} />
         <Stack.Screen name='PhoneNumberNav' component={Contacts} />
-        <Stack.Screen name='ProductNav' component={Product}/>
+        <Stack.Screen name='ProductNavigation' component={Product}/>
 
 
       </Stack.Navigator>
